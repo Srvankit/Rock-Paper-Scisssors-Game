@@ -10,7 +10,7 @@ It is part of my portfolio to showcase JavaScript fundamentals and small interac
 ## 🚀 Live Demo
 
 ```
-https://yourusername.github.io/rock-paper-scissors/
+https://srvankit.github.io/Rock-Paper-Scisssors-Game/
 ```
 
 ---
